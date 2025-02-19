@@ -110,8 +110,8 @@ void walkList(const struct Queue *q) {
         int i = 0;
 
         //1 volta 0 vai
-        scanf("%d", &i);// substituir por função que pega setas
-        //i = detectArrowKeys();
+        //scanf("%d", &i);// substituir por função que pega setas
+        i = detectArrowKeys();
 
         if (i == 0) {
             temp = temp->next;
