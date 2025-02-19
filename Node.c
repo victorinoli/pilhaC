@@ -3,7 +3,7 @@
 //
 
 #include "Node.h"
-#include "pegaseta.h"
+#include "pegaSeta.h"
 
 #include <stdio.h>
 #include <stdlib.h>
