@@ -1,0 +1,3 @@
+C:/Users/victo/CLionProjects/pilha0.1/cmake-build-debug/CMakeFiles/pilha0_1.dir
+C:/Users/victo/CLionProjects/pilha0.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/victo/CLionProjects/pilha0.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
